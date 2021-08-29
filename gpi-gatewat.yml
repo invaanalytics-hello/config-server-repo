@@ -1,1 +1,2 @@
-message: "test-ms fromapi-gateway"
+info:
+  foo: bar
